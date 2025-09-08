@@ -1,0 +1,29 @@
+/* Write your code here. */
+.lost {
+  background-color: transparent;
+  border-style: solid;
+  border-color: #ffffff30;
+  padding: 10px;
+  border-radius: 10px;
+  height: auto;
+  width: auto;
+  display: flex;
+  flex-direction: row;
+}
+.head {
+  color: #ffffff;
+  font-weight: bold;
+}
+.para {
+  color: #6a59ff;
+}
+.btn {
+  background-color: #ffce27;
+  color: black;
+  border-radius: 5px;
+  padding: 5px;
+}
+img {
+  height: 150px;
+  width: 150px;
+}
