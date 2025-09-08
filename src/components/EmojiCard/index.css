@@ -1,0 +1,16 @@
+/* Write your code here. */
+.list {
+  background-color: transparent;
+  border-style: solid;
+  border-color: #ffffff30;
+  padding: 10px;
+  border-radius: 10px;
+  height: auto;
+  width: auto;
+  outline: none;
+}
+
+img {
+  height: 150px;
+  width: 150px;
+}
